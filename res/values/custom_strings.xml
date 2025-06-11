@@ -39,4 +39,7 @@
     <string name="show_fourg_icon_title">4G icon</string>
     <string name="show_fourg_icon_summary">Display 4G icon in signal icon instead LTE</string>
 
+    <!-- Keybox Data -->
+    <string name="keybox_data_title">Select keybox XML to spoof</string>
+    <string name="keybox_data_summary">Select the Keybox XML used for system-wide key attestation spoofing. Click Delete to reset the system-wide Keybox data values.</string>
 </resources>
